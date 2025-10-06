@@ -70,7 +70,8 @@ I captured my simulation waveform and saved it as `gtkwave_good_mux_simulation.p
 - Input `i1` toggling every 55 time units
 - Output `y` correctly following the multiplexer logic
 
-![My GTKWave Simulation Results](gtkwave_good_mux_simulation.png)
+![My GTKWave Simulation Results](gtk_wave_goodmux.png)
+<img width="1504" height="750" alt="Screenshot 2025-09-30 174517" src="https://github.com/user-attachments/assets/d601bc39-095c-496c-b1bb-e569bf500507" />
 
 ---
 
