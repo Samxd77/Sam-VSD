@@ -70,7 +70,7 @@ I captured my simulation waveform and saved it as `gtkwave_good_mux_simulation.p
 - Input `i1` toggling every 55 time units
 - Output `y` correctly following the multiplexer logic
 
-![My GTKWave Simulation Results](gtk_wave_goodmux.png)
+![My GTKWave Simulation Results]
 <img width="1504" height="750" alt="Screenshot 2025-09-30 174517" src="https://github.com/user-attachments/assets/d601bc39-095c-496c-b1bb-e569bf500507" />
 
 ---
@@ -227,7 +227,9 @@ I successfully synthesized my `good_mux` design using Yosys! Here's my step-by-s
 ### My Synthesis Results
 I successfully generated the gate-level netlist and captured the synthesized circuit diagram. The image below shows my synthesized multiplexer design:
 
-![My Synthesized Netlist](synthesized_netlist.png)
+![My Synthesized Netlist]
+<img width="1448" height="590" alt="image" src="https://github.com/user-attachments/assets/ae7b8c22-adb2-4960-bb4c-9ae7279fa20b" />
+
 
 ---
 
